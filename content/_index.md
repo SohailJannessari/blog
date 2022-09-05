@@ -1,3 +1,3 @@
 ---
-title: Hugo XMag
+title: Sohail Jannessari's Blog
 ---
