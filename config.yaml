@@ -38,6 +38,7 @@ params:
   summary_length: 300
   text:
     back: "&larr; Home"
+    edit: false
     truncated: "&hellip;"
 
 markup:
