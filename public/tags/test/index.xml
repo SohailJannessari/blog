@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Interregnum</title>
+    <link>https://sohailjannessari.github.io/tags/test/</link>
+    <description>Recent content in test on Interregnum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sohailjannessari.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Time of Monsters</title>
+      <link>https://sohailjannessari.github.io/post/2022-09-05/the-time-of-monsters/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/post/2022-09-05/the-time-of-monsters/</guid>
+      <description>Well, this is merely a test to see how this website works. I&amp;rsquo;m hoping that it&amp;rsquo;s enough to create a new post in R with blogdown and push it to Github.
+این صرفاً تسته برای این که شکل کار رو ببینم.</description>
+    </item>
+    
+  </channel>
+</rss>
