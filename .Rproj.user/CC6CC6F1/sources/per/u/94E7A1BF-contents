@@ -1,0 +1,30 @@
+library(rtweet)
+library(writexl)
+jdn_data <- lookup_users("Sojannessari") 
+
+### Saving in different formats.
+write_as_csv(jdn_data, "sjn_user_data.csv")
+write_xlsx(jdn_data, "sjn_data.xlsx")
+
+
+sjn_likes <- get_favorites("sojannessari", n = 3000)
+write_as_csv(sjn_likes, "sjn_likes.csv")
+write_xlsx(sjn_likes, "sj_likes.xlsx")
+
+
+sjn_timeline <- get_timelines("sojannessari", n = 3200)
+tweet_ids <- sjn_timeline$status_id
+post_tweet(destroy_id = tweet_ids[1])
+for (i in seq_along(tweet_ids)) {
+  message("Deleting Tweet ", i, " of ", length(tweet_ids))
+  post_tweet(destroy_id = tweet_ids[i])}
+
+
+like_ids <-sjn_likes$status_id
+post_favorite(like_ids[1],  destroy = TRUE)
+
+
+for (i in seq_along(like_ids)) {
+  message("Deleting Fav ", i, " of ", length(like_ids))
+  post_favorite(like_ids[i],
+                destroy = TRUE)}
