@@ -1,5 +1,0 @@
-install.packages("blogdown")
-blogdown::build_site()
-blogdown::serve_site()
-library(blogdown)
-blogdown::new_post()
