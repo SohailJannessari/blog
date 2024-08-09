@@ -1,15 +1,16 @@
 ---
 author: Sohail Jannessari
 categories:
-- ایران
-- چپ
-- اصلاحات
-- انتخابات
+- Iran
+- Left
+- Elections
 date: "2024-08-04"
 tags:
-- ایران
-- انتخابات
-- چپ
+- Iran
+- Left
+- Reformists
+- Elections
+- Pezeshkian
 thumbnail: /post/img/pezeshkian20240804.jpeg
 title: 'Pezeshkian offers breathing room in Iran but...'
 ---
