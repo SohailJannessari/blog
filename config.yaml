@@ -46,3 +46,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+kramdown:
+  input: GFM
+  hard_wrap: false
