@@ -1,16 +1,18 @@
 ---
-author: سهیل جان‌نثاری
+author: بیکرام گیل
+Translator: سهیل جان‌نثاری
 categories:
 - امپریالیسم
 - فلسطین
-- اسراییل 
+- جنوب جهانی 
 date: 2025-03-17
 tags:
 - اسراییل 
 - نسل‌کشی
-- بایدن
-- نتانیاهو
-thumbnail: /post/img/israel20150413.jpg
+- آمریکا
+- فلسطین
+- اقتصاد سیاسی
+thumbnail: /post/img/palestine20250317.jpg
 title: 'امپریالیسم در حال احتضار'
 ---
 
