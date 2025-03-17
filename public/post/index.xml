@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ّInterregnum</title>
+    <title>Posts on Interregnum</title>
     <link>https://sohailjannessari.github.io/post/</link>
-    <description>Recent content in Posts on ّInterregnum</description>
+    <description>Recent content in Posts on Interregnum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://sohailjannessari.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sohailjannessari.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Time of Monsters</title>
+      <link>https://sohailjannessari.github.io/post/2022-09-05/the-time-of-monsters/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/post/2022-09-05/the-time-of-monsters/</guid>
+      <description>Well, this is merely a test to see how this website works. I&amp;rsquo;m hoping that it&amp;rsquo;s enough to create a new post in R with blogdown and push it to Github.
+این صرفاً تسته برای این که شکل کار رو ببینم.</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>https://sohailjannessari.github.io/post/2020-12-01/hello-r-markdown/</link>
@@ -30,13 +40,21 @@ You cannot run any R code in a plain Markdown document, whereas in an R Markdown
     </item>
     
     <item>
-      <title>Jeff Leek can do zero-fold cross-validation</title>
-      <link>https://sohailjannessari.github.io/post/2015-07-28/jeff-leek-can-do-zero-fold-cross-validation/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <title>ایران و سعودی: بازی تاج و تخت</title>
+      <link>https://sohailjannessari.github.io/post/2016-09-12/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AA%D8%A7%D8%AC-%D9%88-%D8%AA%D8%AE%D8%AA/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sohailjannessari.github.io/post/2015-07-28/jeff-leek-can-do-zero-fold-cross-validation/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
+      <guid>https://sohailjannessari.github.io/post/2016-09-12/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%B3%D8%B9%D9%88%D8%AF%DB%8C-%D8%A8%D8%A7%D8%B2%DB%8C-%D8%AA%D8%A7%D8%AC-%D9%88-%D8%AA%D8%AE%D8%AA/</guid>
+      <description>چهره‌ها و رسانه‌ها و بلندگوهای زیادی می‌گویند اختلاف ایران و عربستان ناشی از اختلاف مذهبی بین شیعه و سنی است یا برآمده از ایدئولوژی توسعه‌طلبانه‌ی جمهوری اسلامی ایران و یا خاندان آل سعود است. عده‌ای هم مطابق معمول دست آمریکا یا اسراییل را در ماجرا می‌بینند و از توطئه‌های دیگران برای تخریب جهان اسلامی حرف می‌زنند که لابد فکر می‌کنند حالت طبیعی در آن اتحاد است و برخورد با دیگر تمدن‌ها و غلبه بر آنها.</description>
+    </item>
+    
+    <item>
+      <title>بازگشت به آینده: چرا سندرز را به کلینتون ترجیح می‌دهم</title>
+      <link>https://sohailjannessari.github.io/post/2016-04-23/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%DA%86%D8%B1%D8%A7-%D8%B3%D9%86%D8%AF%D8%B1%D8%B2-%D8%B1%D8%A7-%D8%A8%D9%87-%DA%A9%D9%84%DB%8C%D9%86%D8%AA%D9%88%D9%86-%D8%AA%D8%B1%D8%AC%DB%8C%D8%AD-%D9%85%DB%8C%D8%AF%D9%87%D9%85/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/post/2016-04-23/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%A8%D9%87-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%DA%86%D8%B1%D8%A7-%D8%B3%D9%86%D8%AF%D8%B1%D8%B2-%D8%B1%D8%A7-%D8%A8%D9%87-%DA%A9%D9%84%DB%8C%D9%86%D8%AA%D9%88%D9%86-%D8%AA%D8%B1%D8%AC%DB%8C%D8%AD-%D9%85%DB%8C%D8%AF%D9%87%D9%85/</guid>
+      <description>فروپاشی شوروی، جهانی تک‌قطبی پدید آورد که عده‌ی زیادی را به سمت اعلام پیروزی نهایی سرمایه‌داری سوق داد که معروف‌ترینشان احتمالاً فرانسیس فوکویاما بود. حالا ما ناظران، و البته فرانسیس فوکویاما، می‌دانیم این ایده صحت نداشت و سرمایه‌داری به پیروزی نهایی دست نیافته بود. نتایج این‌گونه تحلیل‌ها و آن نگاه پیروزمندانه‌ی راست‌گراها به تاریخ و به رقبا، تأثیری مخرب در سیاست سال‌های بعد گذاشت. شروع ماجرا از آمریکا و کلینتون بود.</description>
     </item>
     
     <item>
@@ -60,33 +78,21 @@ Quisque mattis volutpat lorem vitae feugiat.</description>
     </item>
     
     <item>
-      <title>Git commits to Jeff Leek</title>
-      <link>https://sohailjannessari.github.io/post/2015-07-25/git-commits-to-jeff-leek/</link>
-      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      <title>انتخابات علیه صلح: مقدمه‌ای بر دولت آینده‌ی اسراییل</title>
+      <link>https://sohailjannessari.github.io/post/2015-04-13/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%DB%8C%D9%87-%D8%B5%D9%84%D8%AD-%D9%85%D9%82%D8%AF%D9%85%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1-%D8%AF%D9%88%D9%84%D8%AA-%D8%A2%DB%8C%D9%86%D8%AF%D9%87%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%DB%8C%DB%8C%D9%84/</link>
+      <pubDate>Mon, 13 Apr 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://sohailjannessari.github.io/post/2015-07-25/git-commits-to-jeff-leek/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
+      <guid>https://sohailjannessari.github.io/post/2015-04-13/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%DB%8C%D9%87-%D8%B5%D9%84%D8%AD-%D9%85%D9%82%D8%AF%D9%85%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1-%D8%AF%D9%88%D9%84%D8%AA-%D8%A2%DB%8C%D9%86%D8%AF%D9%87%DB%8C-%D8%A7%D8%B3%D8%B1%D8%A7%DB%8C%DB%8C%D9%84/</guid>
+      <description>در آخرین روزهای سال 1393، شهروندان اسراییل بعد از دو سال دوباره پای صندوق‌های رأی رفتند تا اعضای جدیدی برای کنست انتخاب کنند و ائتلاف جدیدی را سر کار بیاورند. دولت قبلی که با مذاکراتی فشرده و ائتلافی چهل تکه بر سر کار آمده بود، چند ماه پیش‌تر در پی اختلافات تسیپی لیونی و یائیر لپید، وزرای دادگستری و دارایی با نخست‌وزیر نتانیاهو، از اکثریت افتاد و نتانیاهو حکم به انحلال مجلس و برگزاری انتخابات جدید داد.</description>
     </item>
     
     <item>
-      <title>Jeff Leek always obtains unbiased estimators</title>
-      <link>https://sohailjannessari.github.io/post/2015-07-24/jeff-leek-always-obtains-unbiased-estimators/</link>
-      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
+      <title>می‌توانیم: قصه یک سیاستمدار جوان</title>
+      <link>https://sohailjannessari.github.io/post/2014-05-27/%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D9%85-%D9%82%D8%B5%D9%87-%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%D9%85%D8%AF%D8%A7%D8%B1-%D8%AC%D9%88%D8%A7%D9%86/</link>
+      <pubDate>Tue, 27 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sohailjannessari.github.io/post/2015-07-24/jeff-leek-always-obtains-unbiased-estimators/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
-    </item>
-    
-    <item>
-      <title>Jeff Leek is the Uniformly Most Powerful Jeff</title>
-      <link>https://sohailjannessari.github.io/post/2015-07-23/jeff-leek-is-the-uniformly-most-powerful-jeff/</link>
-      <pubDate>Thu, 23 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sohailjannessari.github.io/post/2015-07-23/jeff-leek-is-the-uniformly-most-powerful-jeff/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-Quisque mattis volutpat lorem vitae feugiat.</description>
+      <guid>https://sohailjannessari.github.io/post/2014-05-27/%D9%85%DB%8C%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D9%85-%D9%82%D8%B5%D9%87-%DB%8C%DA%A9-%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA%D9%85%D8%AF%D8%A7%D8%B1-%D8%AC%D9%88%D8%A7%D9%86/</guid>
+      <description>نتیجه‌ی انتخابات یکشنبه‌ی اتحادیه‌ی اروپا در اکثر کشورها قابل پیش‌بینی بود. کسی که نظرسنجی‌ها را هم ندیده بود، می‌توانست رشد راست و چپ پوپولیستی ضداتحادیه را در کشورهای غرب اروپا ببیند. نابودی حزب لیبرال دموکرات انگلیس و اول نشدن فاشیست‌های حزب آزادی هلند آن‌قدرها با پیش‌بینی‌ها تفاوت نداشت. اتفاق عجیب و حتی غیرقابل باور، موفقیت این آقای توی عکس و حزبش بود؛ از قضا تنها کاندیدایی بود که مدام زیر نظر داشتم و حتی توی توییتر دنبالش می‌کردم.</description>
     </item>
     
   </channel>

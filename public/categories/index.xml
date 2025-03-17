@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on ّInterregnum</title>
+    <title>Categories on Interregnum</title>
     <link>https://sohailjannessari.github.io/categories/</link>
-    <description>Recent content in Categories on ّInterregnum</description>
+    <description>Recent content in Categories on Interregnum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://sohailjannessari.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sohailjannessari.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://sohailjannessari.github.io/categories/test/</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/categories/test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>R</title>
       <link>https://sohailjannessari.github.io/categories/r/</link>
@@ -35,11 +44,65 @@
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>https://sohailjannessari.github.io/categories/machine-learning/</link>
-      <pubDate>Tue, 28 Jul 2015 00:00:00 +0000</pubDate>
+      <title>ایران</title>
+      <link>https://sohailjannessari.github.io/categories/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sohailjannessari.github.io/categories/machine-learning/</guid>
+      <guid>https://sohailjannessari.github.io/categories/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>سیاست خارجی</title>
+      <link>https://sohailjannessari.github.io/categories/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/categories/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>عربستان</title>
+      <link>https://sohailjannessari.github.io/categories/%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/categories/%D8%B9%D8%B1%D8%A8%D8%B3%D8%AA%D8%A7%D9%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>آمریکا</title>
+      <link>https://sohailjannessari.github.io/categories/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/categories/%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>احزاب</title>
+      <link>https://sohailjannessari.github.io/categories/%D8%A7%D8%AD%D8%B2%D8%A7%D8%A8/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/categories/%D8%A7%D8%AD%D8%B2%D8%A7%D8%A8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>انتخابات</title>
+      <link>https://sohailjannessari.github.io/categories/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/categories/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>چپ</title>
+      <link>https://sohailjannessari.github.io/categories/%DA%86%D9%BE/</link>
+      <pubDate>Sat, 23 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://sohailjannessari.github.io/categories/%DA%86%D9%BE/</guid>
       <description></description>
     </item>
     
@@ -53,20 +116,11 @@
     </item>
     
     <item>
-      <title>Tech</title>
-      <link>https://sohailjannessari.github.io/categories/tech/</link>
-      <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
+      <title>اسپانیا</title>
+      <link>https://sohailjannessari.github.io/categories/%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7/</link>
+      <pubDate>Tue, 27 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://sohailjannessari.github.io/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>https://sohailjannessari.github.io/categories/statistics/</link>
-      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://sohailjannessari.github.io/categories/statistics/</guid>
+      <guid>https://sohailjannessari.github.io/categories/%D8%A7%D8%B3%D9%BE%D8%A7%D9%86%DB%8C%D8%A7/</guid>
       <description></description>
     </item>
     
